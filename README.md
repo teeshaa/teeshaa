@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teesha Ghevariya</h1>
-<h3 align="center">A Passionate Frontend Developer | AI/ML Enthusiast | Open-Source Contributor 🚀</h3>
+<h3 align="center">A Passionate Frontend Developer | AI/ML Enthusiast | Open-Source Contributor 🚀| #100DaysOfCode</h3>
 <p align="center">
   <img width="400" alt="Coding" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 </p>
