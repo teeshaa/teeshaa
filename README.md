@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning **Machine learning.**
 - 📝 I regularly write articles on [https://shecode.hashnode.dev/](https://shecode.hashnode.dev/)
 - 💬 Ask me about **Web Development, Android Development, and Artificial Intelligence.**
-- 📫 How to reach me **tishaghevariya@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/19O9A6CfitSVLYBL7UVyKe-RdRu1h7zgG/view?usp=drive_link](https://drive.google.com/file/d/19O9A6CfitSVLYBL7UVyKe-RdRu1h7zgG/view?usp=drive_link)
 - ⚡ Fun fact **I am Versatile 👀**
 
