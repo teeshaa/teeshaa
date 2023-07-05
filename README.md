@@ -1,3 +1,4 @@
+[![teeshaa's GitHub | Stats](https://stats.quine.sh/teeshaa/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=teeshaa)
 <h1 align="center">Hi 👋, I'm Teesha Ghevariya</h1>
 <h3 align="center">A Passionate Frontend Developer | AI/ML Enthusiast | Open-Source Contributor 🚀| #100DaysOfCode</h3>
 <p align="center">
