@@ -42,7 +42,8 @@
 <p><a href="https://www.buymeacoffee.com/teeshaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teesha" /></a></p><br><br>
 
 [![teeshaa's GitHub | Stats](https://stats.quine.sh/teeshaa/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=teeshaa)
-
+[![teeshaa's GitHub | Languages Over Time](https://stats.quine.sh/teeshaa/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=teeshaa)
+[![teeshaa's GitHub | Topics Over Time](https://stats.quine.sh/teeshaa/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=teeshaa)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teeshaa&show_icons=true&locale=en" alt="teeshaa" />
 </p>
