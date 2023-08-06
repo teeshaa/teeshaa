@@ -9,8 +9,6 @@
 
 </a> </p>
 
-<p align="center"> <a href="https://twitter.com/teeshaghevariya" target="blank"><img src="https://img.shields.io/twitter/follow/teeshaghevariya?logo=twitter&style=for-the-badge" alt="teeshaghevariya" /></a> </p>
-
 - 🔭 I’m currently working on **Open-Source Projects.**
 - 🌱 I’m currently learning **Machine learning.**
 - 📝 I regularly write articles on [https://shecode.hashnode.dev/](https://shecode.hashnode.dev/)
@@ -29,7 +27,7 @@
 <a href="https://hashnode.com/@teesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@teesha" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@teeshaghevariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@teeshaghevariya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tishaghevariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tishaghevariya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/she_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="she_code" height="30" width="40" /></a>
+<a href="https://leetcode.com/teesha_ghevariya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="she_code" height="30" width="40" /></a>
 <a href="https://discord.gg/8164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8164" height="30" width="40" /></a>
 </p>
 
