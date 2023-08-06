@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/teesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="teesha" height="30" width="40" /></a>
-<a href="https://twitter.com/teeshaghevariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teeshaghevariya" height="30" width="40" /></a>
+<a href="https://twitter.com/teeshaaaaaaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teeshaghevariya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/teesha-ghevariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teesha-ghevariya-a9052a239" height="30" width="40" /></a>
 <a href="https://instagram.com/tisha_ghevariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tisha_ghevariya" height="30" width="40" /></a>
 <a href="https://hashnode.com/@teesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@teesha" height="30" width="40" /></a>
