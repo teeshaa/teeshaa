@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Teesha Ghevariya</h1>
-<h3 align="center">A Passionate AI Engineer | Open-Source Contributor 🚀</h3>
+<h3 align="center">A Passionate AI Engineer | Deep Learning </h3>
 <p align="center">
   <img width="400" alt="Coding" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif">
 </p>
@@ -9,10 +9,10 @@
 
 </a> </p>
 
-- 🔭 I’m currently working on **Open-Source Projects.**
-- 🌱 I’m currently learning **Machine learning.**
+- 🔭 I’m currently working on **Deep Learning.**
+- 🌱 I’m currently learning **NLP.**
 - 📝 I regularly write articles on [https://shecode.hashnode.dev/](https://shecode.hashnode.dev/)
-- 💬 Ask me about **Web Development, Android Development, and Artificial Intelligence.**
+- 💬 Ask me about **Artificial Engineering and Prompt Engineering.**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sNcdmrUH1n1XyHyz37AQngUGw3sVZDjX/view?usp=sharing)
 - ⚡ Fun fact **I am Versatile 👀**
 
